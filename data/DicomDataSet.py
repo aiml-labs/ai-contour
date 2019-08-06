@@ -1,4 +1,4 @@
-Class DicomDatSet:
+class DicomDataSet:
 	"""
 	DicomDataSet class provides utilities for handing Dicom files. 
 	It assumes the DicomFiles are stored in following directory structure.
